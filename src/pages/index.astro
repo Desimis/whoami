@@ -1,0 +1,21 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../components/Header.astro";
+import ExperienceOverview from "../components/ExperienceOverview.astro";
+import Socials from "../components/Socials.astro";
+---
+
+<Layout title="Christian Mills">
+	<main class="m-auto max-w-4xl bg-zinc-900">
+		<Header
+			image="/images/profilepicture.webp"
+			description="I've grown up around technology, it's a part of who I am and always will be. I'm a software engineer, I'm a musician, and most importantly, I'm curious."
+			furtherDescription="I'm a determined individual with a passion for making the world a simpler, kinder place through the use of technology. "
+			title="I am Christian Mills. I live in South Africa, and I build things."
+		/>
+		<section class="p-6">
+		<ExperienceOverview />
+		<Socials />
+		</section>
+	</main>
+</Layout>
