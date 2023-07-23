@@ -1,10 +1,13 @@
 ---
 export interface Props {
-    svgLink: string;
-    socialLink: string;
-    altDescription: string;
+  svgLink: string;
+  socialLink: string;
+  altDescription: string;
 }
 
 const { svgLink, socialLink, altDescription } = Astro.props;
 ---
-<a class="p-1 w-11 h-11" target="_blank" href={socialLink}><img alt={altDescription} src={svgLink}/></a>
+
+<a class="p-1 w-11 h-11" target="_blank" href={socialLink}
+  ><img alt={altDescription} src={svgLink} /></a
+>

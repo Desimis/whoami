@@ -1,19 +1,25 @@
 ---
 export interface Props {
-	image: string;
-	title: string;
-	description: string;
-    furtherDescription: string;
+  image: string;
+  title: string;
+  description: string;
+  furtherDescription: string;
 }
 
 const { image, description, title, furtherDescription } = Astro.props;
 ---
 
-<section class="flex md:flex-row flex-col justify-between gap-4 bg-gradient-to-b from-zinc-950 to-zinc-900 p-6">
-    <img alt="profile picture" class="object-cover object-center max-w-md rounded-3xl shadow-2xl md:-rotate-3 aspect-[1/1]" src={image} />
-    <div>
-        <h1 class="text-4xl font-bold tracking-tighter sm:text-5xl">{title}</h1>
-        <p class="text-primary-300 mt-5">{description}</p>
-        <p class="text-primary-300 mt-5">{furtherDescription}</p>
-    </div>
+<section
+  class="flex md:flex-row flex-col justify-between gap-4 bg-gradient-to-b from-zinc-950 to-zinc-900 p-6"
+>
+  <img
+    alt="profile picture"
+    class="object-cover object-center max-w-md rounded-3xl shadow-2xl md:-rotate-3 aspect-[1/1]"
+    src={image}
+  />
+  <div>
+    <h1 class="text-4xl font-bold tracking-tighter sm:text-5xl">{title}</h1>
+    <p class="text-primary-300 mt-5">{description}</p>
+    <p class="text-primary-300 mt-5">{furtherDescription}</p>
+  </div>
 </section>
