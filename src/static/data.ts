@@ -12,7 +12,7 @@ export const ExperienceData: ExperienceProps[] = [
   {
     company: "Zepz",
     companyLogo:
-      "https://media.licdn.com/dms/image/C560BAQEsoQ1hu7qU_g/company-logo_100_100/0/1623149271391?e=1695859200&v=beta&t=mDB5yxnI3K_Yz80MvhAju2oB3gcT8tMFKYu87FHdEyw",
+      "/images/zepz.jpeg",
     link: "https://www.zepzpay.com/",
     jobTitle: "Front-End Engineer",
     fromDate: "Jun 2023",
@@ -28,7 +28,7 @@ export const ExperienceData: ExperienceProps[] = [
   {
     company: "Picup",
     companyLogo:
-      "https://media.licdn.com/dms/image/C560BAQFrJD3I-mxa3w/company-logo_100_100/0/1648124810558?e=1695859200&v=beta&t=oulPIEbZcnkCBo4b4aZgANY3xBxYXEgmW2xOOR2pGB8",
+      "/images/picup.jpeg",
     link: "https://www.picup.co.za/",
     jobTitle: "Lead Front-End Engineer",
     fromDate: "Oct 2021",
@@ -46,7 +46,7 @@ export const ExperienceData: ExperienceProps[] = [
   {
     company: "Wetu Tourism Solutions",
     companyLogo:
-      "https://media.licdn.com/dms/image/C4D0BAQGofgbhl-lIzQ/company-logo_100_100/0/1671528607823?e=1695859200&v=beta&t=X7RgQYJtQ-ePZ_kyxjDxwKOhp1YshwbyTbG_uPdWhOs",
+      "/images/wetu.jpeg",
     link: "https://wetu.com/",
     jobTitle: "Software Engineer",
     fromDate: "Aug 2020",
@@ -63,7 +63,7 @@ export const ExperienceData: ExperienceProps[] = [
   {
     company: "Application Frameworks",
     companyLogo:
-      "https://media.licdn.com/dms/image/C560BAQGowTAhPQQdYQ/company-logo_100_100/0/1551853386602?e=1695859200&v=beta&t=KnpbOEXoA_BJBGbeS6CfYfb2v-nMHlvvxWyiKmhSw48",
+      "/images/appframeworks.jpeg",
     link: "https://appframeworks.com/",
     jobTitle: "Software Developer",
     fromDate: "Jan 2019",
@@ -80,7 +80,7 @@ export const ExperienceData: ExperienceProps[] = [
   {
     company: "Full Stack",
     companyLogo:
-      "https://media.licdn.com/dms/image/C4E0BAQELmjLid7aymg/company-logo_100_100/0/1519897429238?e=1695859200&v=beta&t=Tr87lKFIasOwFZo8cT2MsJYns1F9k5TesT-ez4lFTq8",
+      "/images/fullstack.jpeg",
     link: "https://www.fullstack.co.za/",
     jobTitle: "Junior Software Developer",
     fromDate: "Jan 2018",
