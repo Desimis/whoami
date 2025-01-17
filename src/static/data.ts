@@ -18,11 +18,11 @@ export const ExperienceData: ExperienceProps[] = [
     fromDate: "Jun 2023",
     toDate: "Present",
     description: [
-      "Driving performance and SEO enhancements for a cutting-edge NextJS platform.",
-      "Collaborating with cross-functional teams to optimize page load times and user experience.",
-      "Implementing front-end strategies like code splitting and lazy loading.",
-      "Executing SEO best practices to boost organic search rankings and visibility.",
-      "Building and maintaining automated tests to ensure reliability.",
+      "Played a part in planning, designing and building products for financial crime mitigation, such as screening individuals.",
+      "Full responsibility for designing, planning, building and owning a service for handling outreaches to customers to maintain compliance of their documents and improve our internal operations ability to monitor customers. This included designing analytics and metrics from the beginning to ensure the ability to improve the service immediately from launch.",
+      "Collaborated with multiple teams and assisted them with improving their ability to improve customer experience or the ability to improve internal support experience.",
+      "Initially had a focus on performance and SEO improvement of a Next.JS project that we saw to finish until moving onto financial crime.",
+      "Worked on a variety of Java (Spring) based micro-services where resources were short for other teams and they needed assistance.",
     ],
   },
   {
