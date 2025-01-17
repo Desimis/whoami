@@ -14,7 +14,7 @@ export const ExperienceData: ExperienceProps[] = [
     companyLogo:
       "/images/zepz.jpeg",
     link: "https://www.zepzpay.com/",
-    jobTitle: "Front-End Engineer",
+    jobTitle: "Full-stack Engineer",
     fromDate: "Jun 2023",
     toDate: "Present",
     description: [
