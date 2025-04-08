@@ -14,15 +14,47 @@ export const ExperienceData: ExperienceProps[] = [
     companyLogo:
       "/images/zepz.jpeg",
     link: "https://www.zepzpay.com/",
-    jobTitle: "Full-stack Engineer",
-    fromDate: "Jun 2023",
+    jobTitle: "Senior Software Engineer",
+    fromDate: "Mar 2025",
     toDate: "Present",
+    description: [
+      "Co-owner for multiple services that oversee fin-crime functionalities such as screening and extended due diligence of customers.",
+      "Leading and contributing to projects that deliver robust fin-crime solutions focusing on improving customer conversion rates, customer response rates, and improve efficiencies of internal staff.",
+      "Collaborating with multiple teams and driving technical designs to ensure a cohesive solution across domains for meeting regulatory requirements.",
+      "Contributing to many diverse projects throughout the full SDLC life-cycle in varying technologies.",
+      "Mentoring and upskilling colleagues for personal and professional growth.",
+    ],
+  },
+  {
+    company: "Zepz",
+    companyLogo:
+      "/images/zepz.jpeg",
+    link: "https://www.zepzpay.com/",
+    jobTitle: "Backend Engineer",
+    fromDate: "Nov 2023",
+    toDate: "Mar 2025",
     description: [
       "Played a part in planning, designing and building products for financial crime mitigation, such as screening individuals.",
       "Full responsibility for designing, planning, building and owning a service for handling outreaches to customers to maintain compliance of their documents and improve our internal operations ability to monitor customers. This included designing analytics and metrics from the beginning to ensure the ability to improve the service immediately from launch.",
       "Collaborated with multiple teams and assisted them with improving their ability to improve customer experience or the ability to improve internal support experience.",
-      "Initially had a focus on performance and SEO improvement of a Next.JS project that we saw to finish until moving onto financial crime projects.",
-      "Worked on a variety of Java (Spring) based micro-services including planning, designing, and building new services within a financial crime domain.",
+      "Executing SEO best practices to boost organic search rankings and visibility.",
+      "Worked on a variety of Java (Spring) based micro-services where resources were short for other teams and they needed assistance.",
+    ],
+  },
+  {
+    company: "Zepz",
+    companyLogo:
+      "/images/zepz.jpeg",
+    link: "https://www.zepzpay.com/",
+    jobTitle: "Frontend Engineer",
+    fromDate: "Jun 2023",
+    toDate: "Nov 2023",
+    description: [
+      "Driving performance and SEO enhancements for a cutting-edge NextJS platform.",
+      "Collaborating with cross-functional teams to optimize page load times and user experience.",
+      "Implementing front-end strategies like code splitting, lazy-loading, SSR and SSG.",
+      "Executing SEO best practices to boost organic search rankings and visibility.",
+      "Building and maintaining automated tests to ensure reliability.",
     ],
   },
   {
